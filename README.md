@@ -224,8 +224,7 @@ Accuracy Improvements Over Epoch (Model A1 and A2)
 Using Model 1 again, the new 21c dataset is applied to simulate the scenario where "data changes over time." In unsupervised learning, the model does not have access to correct data labels and retrains itself based on self-predicted labels. As shown in the graph below, Model B1 attempts to adjust to the new 21c dataset. However, since the initial accuracy of the original model on the 21c dataset is quite low (52.6%), self-training does not lead to improvements in accuracy for the 21c dataset; in fact, there is a slight degradation. On the other hand, when using Model 10, which was trained on both the original dataset as well as 21c and 14c, self-training with the 21c dataset does not significantly degrade performance on either the original or 21c datasets, though a slight degradation is still observed. This suggests that the model requires correct feedback (i.e., accurate data labels) during training on new datasets in order to improve effectively.
 
 <BR>
-
-<img src="https://github.com/user-attachments/assets/4f9a59d3-02a2-4dc5-ac31-50709441ddce" style="width: 50%; height: 50%;" />
+![image](https://github.com/user-attachments/assets/c7fdf35c-4b44-4c48-8af4-ded3e94005f7)
 
 <BR>
 <BR>
@@ -233,10 +232,9 @@ Using Model 1 again, the new 21c dataset is applied to simulate the scenario whe
 Accuracy Improvements Over Epoch (Model B1 and B3)
 -	Model B1 maintains a similar range of accuracy for the new 21c dataset with no significant improvement. Model B3, which was trained on the original, 21c, and 14c datasets, shows only minimal deterioration.
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/99dab6b7-1b43-4fb1-afbd-e51f78cc9f5b" alt="Image 1" width="500" />
-  <img src="https://github.com/user-attachments/assets/6ad6d5a5-21d4-454a-b840-a32c191f9f05" alt="Image 2" width="500" />
-</p>
+![image](https://github.com/user-attachments/assets/cbf55a24-a0de-474b-b0c0-79add89f42cc)
+![image](https://github.com/user-attachments/assets/ce8d4f6d-2393-4b01-9cae-14df0ef7af60)
+
 
 ***c.	Unsupervised Learning (2) Test Results (Model C1)***
 
