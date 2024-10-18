@@ -21,13 +21,9 @@ Another method is to use time sequencing. For example, while we might not correc
 
 For this project, to simplify the process, I will use handwritten digit data (0-9) instead of car images to improve the model in both scenarios: (i) shape changes over time and (ii) object size changes over short periods.
 
-<p align = "center">
-  <img src="https://github.com/user-attachments/assets/6c18eff2-087b-4d43-a83a-add5d960c640" style="width: 50%; height: 50%;" />
-
-  ![image](https://github.com/user-attachments/assets/6c18eff2-087b-4d43-a83a-add5d960c640)
+![image](https://github.com/user-attachments/assets/9b33c8e2-541e-44b1-bfcd-d225ee2955f2)
 
 
-  
 <BR>
 <BR>
 
@@ -47,11 +43,10 @@ This project uses the MNIST dataset for handwritten digit samples. The MNIST dat
 
 As shown below, the new datasets were created as intended.
 
-<p align = "center">
-  <img src="https://github.com/user-attachments/assets/ca0a4c35-db2d-43f0-b3c0-7034390c5e90" style="width: 75%; height: 75%;" />
+![image](https://github.com/user-attachments/assets/1d194a5d-2b3a-4c18-96eb-0fd3a1614b59)
 
-<p align = "center">
-  <img src="https://github.com/user-attachments/assets/42f8dfdb-8f30-46a8-90cb-54b1f48f296f" style="width: 50%; height: 50%;" />
+![image](https://github.com/user-attachments/assets/c948e545-0936-43a4-8db4-5f4b7cee399b)
+
 
 <BR>
 <BR>
