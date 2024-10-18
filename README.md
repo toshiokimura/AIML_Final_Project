@@ -147,9 +147,10 @@ Accuracy Improvements Over Epoch (Model 1)
 
 The evolution of W1 in Model 1 (Epoch 0, Epoch 5, and Epoch 60):
 -	The W1 at Epoch 0 (top) is random. By Epoch 5 (middle), W1 is already beginning to show the direction it will take by Epoch 60 (bottom).
-![image](https://github.com/user-attachments/assets/a9f20441-b7fe-40ee-9c2d-652a90783d19)
-![image](https://github.com/user-attachments/assets/414a2309-151e-402d-8e44-b42fa6780dc2)
-![image](https://github.com/user-attachments/assets/247d654b-8179-474c-9cfc-8ca5e1868bda)
+![image](https://github.com/user-attachments/assets/e029e91c-05d6-4935-89fd-3bdda1d2a46c)
+![image](https://github.com/user-attachments/assets/a8264cc1-ad1d-40fc-9213-38c5940fbc2f)
+![image](https://github.com/user-attachments/assets/c1dbcf24-e6b3-4cf7-a4c2-b9c6a1fc8258)
+
 
 
 
@@ -157,13 +158,14 @@ The evolution of W1 in Model 1 (Epoch 0, Epoch 5, and Epoch 60):
 
 The evolution of W1 in Model 4 (Epoch 60): Batch size 2
 -	Outside the effective center area, the weights are well averaged.
-![image](https://github.com/user-attachments/assets/ce2ba271-ee16-46e8-ad09-5ebc9b4ac867)
+![image](https://github.com/user-attachments/assets/0513a923-81dc-4af8-9798-ba57ac73f1c5)
 
 <BR>
 
 The evolution of W1 in Model 9 (Epoch 60): 14tl dataset
 -	The shapes are observed only in the top left corner.
-![image](https://github.com/user-attachments/assets/740e9daa-384d-49df-a7c8-d4b213ea053d)
+![image](https://github.com/user-attachments/assets/220c131a-ff83-41e4-99c6-0c9e062665b6)
+
 
 <BR>
 
