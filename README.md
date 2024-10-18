@@ -80,7 +80,7 @@ Based on this model, new features have been implemented, as highlighted below.
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/4d8b9149-900b-48b5-9c55-c06310be8159)
+![image](https://github.com/user-attachments/assets/bcda18b8-88f3-4676-b335-b31f4b61c3d8)
 
 
 <BR>
