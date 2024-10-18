@@ -204,7 +204,7 @@ Using Model 1, a new dataset, 21c, is applied to emulate the scenario where "dat
 
 <BR>
 
-<img src="https://github.com/user-attachments/assets/f735e3c6-d098-42ab-955f-99997a95cef0" style="width: 50%; height: 50%;" />
+![image](https://github.com/user-attachments/assets/3785be5c-96b0-45a1-a69c-392aaa14eb52)
 
 <BR>
 <BR>
@@ -212,10 +212,9 @@ Using Model 1, a new dataset, 21c, is applied to emulate the scenario where "dat
 Accuracy Improvements Over Epoch (Model A1 and A2)
 
 - The model becomes familiar with the new 21c dataset, and with an appropriate alpha value (0.0001), it also performs better on the original dataset.
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/2eb43c1c-d816-4272-b72f-332c77d4d4da" alt="Image 1" width="500" />
-  <img src="https://github.com/user-attachments/assets/b035b010-42ee-4e38-a0f3-443bf50f0c13" alt="Image 2" width="500" />
-</p>
+![image](https://github.com/user-attachments/assets/5d445971-679e-4606-b241-2aefefc4175f)
+![image](https://github.com/user-attachments/assets/aeab7568-ab15-4f92-a6ab-d0a41ed81a91)
+
 
 
 <BR>
