@@ -224,7 +224,7 @@ Accuracy Improvements Over Epoch (Model A1 and A2)
 Using Model 1 again, the new 21c dataset is applied to simulate the scenario where "data changes over time." In unsupervised learning, the model does not have access to correct data labels and retrains itself based on self-predicted labels. As shown in the graph below, Model B1 attempts to adjust to the new 21c dataset. However, since the initial accuracy of the original model on the 21c dataset is quite low (52.6%), self-training does not lead to improvements in accuracy for the 21c dataset; in fact, there is a slight degradation. On the other hand, when using Model 10, which was trained on both the original dataset as well as 21c and 14c, self-training with the 21c dataset does not significantly degrade performance on either the original or 21c datasets, though a slight degradation is still observed. This suggests that the model requires correct feedback (i.e., accurate data labels) during training on new datasets in order to improve effectively.
 
 <BR>
-![image](https://github.com/user-attachments/assets/c7fdf35c-4b44-4c48-8af4-ded3e94005f7)
+![image](https://github.com/user-attachments/assets/afa91da6-6724-4cfc-8ca5-63d61b0d99f3)
 
 <BR>
 <BR>
@@ -232,8 +232,9 @@ Using Model 1 again, the new 21c dataset is applied to simulate the scenario whe
 Accuracy Improvements Over Epoch (Model B1 and B3)
 -	Model B1 maintains a similar range of accuracy for the new 21c dataset with no significant improvement. Model B3, which was trained on the original, 21c, and 14c datasets, shows only minimal deterioration.
 
-![image](https://github.com/user-attachments/assets/cbf55a24-a0de-474b-b0c0-79add89f42cc)
-![image](https://github.com/user-attachments/assets/ce8d4f6d-2393-4b01-9cae-14df0ef7af60)
+![image](https://github.com/user-attachments/assets/7124e600-e490-451a-87bb-16037acdc425)
+![image](https://github.com/user-attachments/assets/fdb3162b-3992-416e-998a-2835c49941e7)
+
 
 
 ***c.	Unsupervised Learning (2) Test Results (Model C1)***
