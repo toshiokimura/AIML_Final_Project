@@ -24,6 +24,7 @@ For this project, to simplify the process, I will use handwritten digit data (0-
 <p align = "center">
   <img src="https://github.com/user-attachments/assets/0d66cbd0-54e5-449f-9e11-8ca522b755d4" style="width: 50%; height: 50%;" />
   
+  
 <BR>
 <BR>
 
