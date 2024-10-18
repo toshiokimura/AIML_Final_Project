@@ -80,7 +80,7 @@ Based on this model, new features have been implemented, as highlighted below.
 <br>
 <br>
 
-<img src="https://github.com/user-attachments/assets/e7e184ed-224d-49ae-b84e-501122ebcf49" style="width: 75%; height: 75%;" />
+![image](https://github.com/user-attachments/assets/4d8b9149-900b-48b5-9c55-c06310be8159)
 
 
 <BR>
@@ -141,27 +141,29 @@ Based on these findings, the W1 and b1 generated from Model 1 will be applied in
 
 Accuracy Improvements Over Epoch (Model 1)
 -	The best accuracy is achieved with the original data (28c), followed by 21c, 14c, 21tl, and 14tl, in that order.
-![image](https://github.com/user-attachments/assets/16ec69e6-1ad6-48eb-a00a-782b259eb126)
+![image](https://github.com/user-attachments/assets/6222ead8-ce6b-4e5b-8e4d-4e7ed7dfc497)
 
 <BR>
 
 The evolution of W1 in Model 1 (Epoch 0, Epoch 5, and Epoch 60):
 -	The W1 at Epoch 0 (top) is random. By Epoch 5 (middle), W1 is already beginning to show the direction it will take by Epoch 60 (bottom).
-![image](https://github.com/user-attachments/assets/c6b6d653-2d9f-41a5-9c8d-ea967b9474b5)
-![image](https://github.com/user-attachments/assets/9b16887a-a893-4a3f-96f8-100a72323eb5)
-![image](https://github.com/user-attachments/assets/4235210c-9b6e-4ed6-8caf-982ac29de1a0)
+![image](https://github.com/user-attachments/assets/a9f20441-b7fe-40ee-9c2d-652a90783d19)
+![image](https://github.com/user-attachments/assets/414a2309-151e-402d-8e44-b42fa6780dc2)
+![image](https://github.com/user-attachments/assets/247d654b-8179-474c-9cfc-8ca5e1868bda)
+
+
 
 <BR>
 
 The evolution of W1 in Model 4 (Epoch 60): Batch size 2
 -	Outside the effective center area, the weights are well averaged.
-![image](https://github.com/user-attachments/assets/e6014aec-71c5-4fa9-b05a-1ab89e7f62fa)
+![image](https://github.com/user-attachments/assets/ce2ba271-ee16-46e8-ad09-5ebc9b4ac867)
 
 <BR>
 
 The evolution of W1 in Model 9 (Epoch 60): 14tl dataset
 -	The shapes are observed only in the top left corner.
-![image](https://github.com/user-attachments/assets/6af7002e-67ab-4e2c-9efc-f7f2b603d364)
+![image](https://github.com/user-attachments/assets/740e9daa-384d-49df-a7c8-d4b213ea053d)
 
 <BR>
 
