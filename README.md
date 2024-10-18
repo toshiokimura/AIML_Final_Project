@@ -243,7 +243,7 @@ Finally, using Model 1, new datasets 14c and 21c, along with the original datase
 
 <BR>
 
-<img src="https://github.com/user-attachments/assets/3518d41f-0bc5-4765-a9fa-99d25e53f831" style="width: 50%; height: 50%;" />
+![image](https://github.com/user-attachments/assets/541eb7ad-63f4-49ae-b4de-75407e4e9843)
 
 <BR>
 <BR>
@@ -251,15 +251,16 @@ Finally, using Model 1, new datasets 14c and 21c, along with the original datase
 Accuracy Improvements Over Epoch (Model C1)
 -	Model C1 successfully improves the accuracies for new datasets (21c and 14c) by its won prediction mainly from the original dataset.
 
-![image](https://github.com/user-attachments/assets/8a8ef34b-8d3c-4ac4-ac75-c5f35e62b504)
+![image](https://github.com/user-attachments/assets/627d9127-90c6-4923-a532-6b9ded1b78ff)
 
 
 Predictions for the first 20 data points of the original, 21c, and 14c datasets at Epoch 0 and 120 (Model C1)
 -	There are 18 errors at Epoch 0, and 13 errors (7 original errors + 6 new errors) and 11 corrections at Epoch 120.
 
-![image](https://github.com/user-attachments/assets/094ee1c0-c258-4f3a-8945-778f564c5f0b)
+![image](https://github.com/user-attachments/assets/e9192bb7-0513-4b05-a5fb-f675c42d4a5d)
 
-![image](https://github.com/user-attachments/assets/e38eb7b4-bf5f-4cf1-9692-aea13d265be5)
+![image](https://github.com/user-attachments/assets/0b5eada9-cf13-47f5-9877-68de84caae30)
+
 
 
 ## 5. Conclustion
